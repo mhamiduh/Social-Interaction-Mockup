@@ -1,0 +1,242 @@
+
+body{
+    background-color:whitesmoke;
+    width: 850px;
+    height: 750px;
+    
+    
+}
+
+#main {
+    width: 850px;
+    height: 100px;
+    margin: 10px;
+    border: 4px solid blue;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding-top: 200px;
+    margin-bottom: 0em;
+}
+    header {
+
+    color: white;
+    }
+    button  {
+        text-align: right;
+        position: relative;
+        left: 780px;
+        top: -40px;
+    }
+
+.navList {
+    text-align: center;
+    text-transform: lowercase;
+    position: relative;
+}
+#About1 {
+
+    width: 328px;
+    height: 250px;
+    background-color: blue;
+    border: 2px solid blue;
+    margin-bottom: 10px;
+    left: auto;
+    color: white;
+}
+
+#About2 {
+
+    width: 328px;
+    height: 250px;
+    background-color: blue;
+    border: 2px solid blue;
+    margin-bottom: 10px;
+    left: auto;
+    border-bottom-left-radius: 2px;
+    color: white;
+
+}
+
+#About3 {
+
+    width: 328px;
+    height: 250px;
+    background-color: blue;
+    border: 2px solid blue;
+    margin-bottom: 10px;
+    text-align: left;
+    color: white;
+}
+
+#About4 {
+
+    width: 328px;
+    height: 250px;
+    background-color:blue;
+    border: 2px solid blue;
+    margin-bottom: 10px;
+    left: auto;
+    border-bottom-left-radius: 2px;
+    color: white;
+}
+#Name1 {
+
+    width: 512px;
+    height: 250px;
+    background-color:blue;
+    border: 2px blue solid;
+    margin: 10px;
+    position: relative;
+    top: -1055px;
+    left: 338px;
+    color: white;
+}
+#Name2 {
+
+    width: 512px;
+    height: 250px;
+    background-color: blue;
+    border: 2px solid blue;
+    margin: 10px;
+    position: relative;
+    top: -1055px;
+    left: 338px;
+    color: white;
+}
+#Name3 {
+
+    width: 512px;
+    height: 250px;
+    background-color: blue;
+    border: 2px blue solid;
+    margin: 10px;
+    position: relative;
+    top: -1055px;
+    left: 338px;
+    color: white;
+}
+#Name4 {
+
+    width: 512px;
+    height: 250px;
+    background-color:blue;
+    border: 2px blue solid;
+    margin: 10px;
+    position: relative;
+    top: -1055px;
+    left: 338px;
+    color: white;
+}
+
+
+.interior { 
+    height: 30px;
+    width: 200px;
+    position: relative;
+}
+
+.div1 {
+    height: 50px;
+    width: 70px;
+    background-color:green;
+    margin-bottom: 10px;
+    margin: 20px;
+    top: -1550px;
+    
+}
+
+.div2 {
+    height: 50px;
+    width: 70px;
+    background-color: green;
+    margin-bottom: 10px;
+    margin: 20px;
+    top: -1549px;
+    
+}
+.div3 {
+    height: 50px;
+    width: 70px;
+    background-color: green;
+    margin-bottom: 10px;
+    margin: 20px;
+    top: -1548px; 
+}
+.div4 {
+    height: 50px;
+    width: 70px;
+    background-color: green;
+    margin-bottom: 10px;
+    margin: 20px;
+    top: -1400px;  
+}
+.div5 {
+    height: 30px;
+    width: 70px;
+    background-color: green;
+    margin-bottom: 10px;
+    margin: 20px;
+    top: -1500px; 
+    left: 400px; 
+}
+.div6 {
+    height: 30px;
+    width: 70px;
+    background-color: green;
+    margin-bottom: 10px;
+    margin: 20px;
+    top: -1498px; 
+    left: 400px; 
+}
+.div7 {
+    height: 30px;
+    width: 70px;
+    background-color: green;
+    margin-bottom: 10px;
+    margin: 20px;
+    top: -1497px; 
+    left: 400px; 
+}
+.div8 {
+    height: 30px;
+    width: 70px;
+    background-color: green;
+    margin-bottom: 10px;
+    margin: 20px;
+    top: -1890px; 
+    left: 400px; 
+}
+.div9 {
+    height: 30px;
+    width: 70px;
+    background-color: green;
+    margin-bottom: 10px;
+    margin: 20px;
+    top: -2200px; 
+    left: 400px; 
+}
+h5 {
+    text-align: center;
+}
+
+footer {
+    text-decoration: dashed;
+    
+    margin-left: 0px;
+    position: relative;
+    top: -1920px;
+    border: 2px dashed blue;
+    text-align: center;
+    background-color:whitesmoke;
+}
+#hamiduh {
+    position: relative;
+    left: 50px;
+    top: -3025px;
+}
+
+
+
+
+
